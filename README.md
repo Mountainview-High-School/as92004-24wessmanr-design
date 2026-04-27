@@ -3,9 +3,9 @@
 # Student Information
 Fill out the following information.
 
-Assessment Standard Number: 
-Name: 
-NSN: 
+Assessment Standard Number: 92004
+Name: riley wessman
+NSN: 0145671129
 
 [ ] I agree to abide by the assessment conditions for this assignment as explained by my teacher
 [ ] I have read and understand the instructions for the assessment.
