@@ -1,3 +1,10 @@
 print("What is your name")
 name = input()
 print("Hello "+ name+" welcome to my quiz")
+print ("what is your age?")
+age = int (input())
+if age > 13 :
+  print ("you are above age to use this app. please try the other quiz ")
+print ("if you are 8 to 13 your aloud to use this current quiz")  
+print ("question time would you like to start?")
+print ("yes i would please sir") 
